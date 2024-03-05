@@ -1,0 +1,9 @@
+.transition {
+    &-ease-300 {
+        transition: all 0.3s ease;
+    }
+
+    &-ease-200 {
+        transition: all 0.2s ease;
+    }
+}
